@@ -1,7 +1,7 @@
 <h1 align="center">
     Move It
 </h1>
-<p align="center"> Aplicação desenvolvida na quarta edição da Next Level Week - Rockseat 💻🚀 </p>
+<p align="center"> Aplicação desenvolvida na quarta edição da Next Level Week - Rocketseat 💻🚀 </p>
 
 <p align="center">
  <a href="#objective">Objective</a> •
