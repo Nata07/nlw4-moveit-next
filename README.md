@@ -4,10 +4,10 @@
 <p align="center"> Aplicação desenvolvida na quarta edição da Next Level Week - Rocketseat 💻🚀 </p>
 
 <p align="center">
- <a href="#objective">Objective</a> •
- <a href="#technologies">Technologies</a> •
- <a href="#author">Author</a> • 
- <a href="#license">License</a>
+ <a href="#objective">Objetivos</a> •
+ <a href="#technologies">Tecnologias</a> •
+ <a href="#author">Autor</a> • 
+ <a href="#license">Licença</a>
 </p>
 
 <h2 id="objective" > 🎯 Objetivo </h2>
@@ -29,6 +29,6 @@ By Natanael Silva 👊🏾🚀
 [![Linkedin Badge](https://img.shields.io/badge/-natanaelsilva-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/silvanatanael/)](https://www.linkedin.com/in/silvanatanael/)
 [![Instagram Badge](https://img.shields.io/badge/-natanaelsilva-c43b94?style=flat-square&logo=Gmail&logoColor=white&link=https://instagram.com/silvaanata)](https://instagram.com/silvaanata)
 
-<h2 id="license"> 📝 License </h2>
+<h2 id="license"> 📝 Licença </h2>
 
 This project is under the MIT license.
