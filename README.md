@@ -27,7 +27,7 @@ TAs tecnologias utilizadas no projeto, são:
 <strong> By Natanael Silva </strong> 👊🏾🚀
 
 [![Linkedin Badge](https://img.shields.io/badge/-natanaelsilva-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/silvanatanael/)](https://www.linkedin.com/in/silvanatanael/)
-[![Instagram Badge](https://img.shields.io/badge/-natanaelsilva-c43b94?style=flat-square&logo=Gmail&logoColor=white&link=https://instagram.com/silvaanata)](https://instagram.com/silvaanata)
+[![Instagram Badge](https://img.shields.io/badge/-natanaelsilva-c43b94?style=flat-square&logo=Instagram&logoColor=white&link=https://instagram.com/silvaanata)](https://instagram.com/silvaanata)
 
 <h2 id="license"> 📝 Licença' </h2>
 
