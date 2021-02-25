@@ -5,6 +5,8 @@ import { Profile } from "../components/Profile";
 
 import styles from '../styles/components/Home.module.css';
 import Head  from 'next/head'
+import { ChalleangeBox } from "../components/ChalleangeBox";
+import { CountdownProvider } from "../context/CountdownContext";
 
 export default function Home() {
   return (
@@ -13,15 +15,18 @@ export default function Home() {
         <title> Inicio - NS Move.It</title>
       </Head>
       <ExperienceBar />
-
-      <section>
-        <div>
-          <Profile />
-          <CompleteChallenge />
-          <Countdown />
-        </div>
-        <div>Desafio</div>
-      </section>
+      <CountdownProvider>
+        <section>
+          <div>
+            <Profile />
+            <CompleteChallenge />
+            <Countdown />
+          </div>
+          <div>
+          <ChalleangeBox />
+          </div>
+        </section>
+      </CountdownProvider>
     </div>
   )
 }

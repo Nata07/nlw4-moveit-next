@@ -17,7 +17,7 @@ e incentivar a prática de exercícios durante as atividades diárias, para melh
 
 <h2 id="technologies"> 🛠 Tecnologias </h2>
 
-TAs tecnologias utilizadas no projeto, são:
+As tecnologias utilizadas no projeto, são:
 
 - [React](https://reactjs.org)
 - [Nextjs](https://nextjs.org)
